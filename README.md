@@ -74,11 +74,17 @@ Sou entusiasta de **boas práticas**, **automação**, e soluções que realment
 
 ## 📊 GitHub Insights
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=MichellHPC&show_icons=true&theme=onedark&locale=pt-br&include_all_commits=true&rank_icon=github&card_width=700" 
-    alt="GitHub Stats" height="180"/>
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichellHPC&theme=onedark&layout=compact&langs_count=9&custom_title=Linguagens" 
-    alt="Top Langs" height="180"/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MichellHPC&theme=monokai&custom_title=Contribuições&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="justify">
+    <img 
+        src="https://github-readme-stats.vercel.app/api?username=MichellHPC&show_icons=true&theme=onedark&locale=pt-br&include_all_commits=true&rank_icon=github" 
+        alt="GitHub Stats" 
+        height="200"
+    />
+    <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichellHPC&theme=onedark&layout=compact&langs_count=9&custom_title=Linguagens" 
+        alt="Top Langs" 
+        height="200"
+    />
 </p>
