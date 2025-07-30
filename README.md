@@ -45,8 +45,8 @@ Sou entusiasta de **boas práticas**, **automação**, e soluções que realment
     <img align="left" alt="Chart.js" title="Chart.js" width="30px" style="padding-right: 10px;" src="https://www.chartjs.org/media/logo-title.svg" />
     <img align="left" alt="LaTeX" title="LaTeX" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" />
     <img align="left" alt="Trello" title="Trello" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-    <br/>
 </p>
+<br/>
 
 ## 🚀 Principais Competências
 
