@@ -74,31 +74,15 @@ Sou entusiasta de **boas práticas**, **automação**, e soluções que realment
 
 ## 📊 GitHub Insights
 
-<!-- Primeira linha: gráfico de contribuições ocupa 100% da largura -->
-<div align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MichellHPC&theme=one-dark&custom_title=Contribuições&hide_border=true" 
-    alt="GitHub Contribution Graph" 
-    style="width: 100%; height: 500px;"
-  />
-</div>
-
-<!-- Segunda linha: estatísticas (70%) + linguagens (30%) -->
-<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 10px; flex-wrap: wrap;">
-  
-  <!-- GitHub Stats ocupa 70% da linha -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=MichellHPC&show_icons=true&theme=onedark&locale=pt-br&include_all_commits=true&rank_icon=github" 
-    alt="GitHub Stats" 
-    style="flex: 0 0 70%; height: 200px;"
-  />
-  
-  <!-- Linguagens ocupa 30% da linha -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichellHPC&theme=onedark&layout=compact&langs_count=9&custom_title=Linguagens" 
-    alt="Top Langs" 
-    style="flex: 0 0 30%; height: 200px;"
-  />
-
-</div>
-
+<p align="center">
+    <img 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=MichellHPC&theme=one-dark&custom_title=Contribuições&hide_border=true" 
+        alt="GitHub Stats" 
+        height="200"
+    />
+    <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichellHPC&theme=onedark&layout=compact&langs_count=9&custom_title=Linguagens" 
+        alt="Top Langs" 
+        height="200"
+    />
+</p>
