@@ -11,11 +11,10 @@ No front-end, utilizo **jQuery** e estou expandindo conhecimentos em **React.js*
 Sou entusiasta de **boas práticas**, **automação**, e soluções que realmente geram impacto.
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/michell-henrick-p-carvalhais-a3ba92231) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:michell.rv@gmail.com) 
 
 ## 🤖 Linguagens e Tecnologias
-
 <p>
     <img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img align="left" alt="Laravel" title="Laravel" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
@@ -49,8 +48,6 @@ Sou entusiasta de **boas práticas**, **automação**, e soluções que realment
     <br/>
 </p>
 
----
-
 ## 🚀 Principais Competências
 
 - 🧱 **Backend:** PHP (6+ anos), Laravel (3+ anos), Blade, APIs REST
@@ -62,8 +59,6 @@ Sou entusiasta de **boas práticas**, **automação**, e soluções que realment
 - 📐 **Design & UI:** Figma
 - 📁 **Versionamento:** Git / GitHub
 - 🌱 **Aprendizado Atual:** React.js, Vue.js, Next.js, Tailwind CSS, FilamentPHP
-
----
 
 # 📊 GitHub Stats:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MichellHPC&theme=one-dark&custom_title=Contribuições&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
