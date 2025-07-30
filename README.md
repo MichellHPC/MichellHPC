@@ -10,7 +10,9 @@ No front-end, utilizo **jQuery** e estou expandindo conhecimentos em **React.js*
 
 Sou entusiasta de **boas práticas**, **automação**, e soluções que realmente geram impacto.
 
----
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/michell-henrick-p-carvalhais-a3ba92231) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:michell.rv@gmail.com) 
 
 ## 🤖 Linguagens e Tecnologias
 
@@ -63,26 +65,32 @@ Sou entusiasta de **boas práticas**, **automação**, e soluções que realment
 
 ---
 
-## 🏆 Destaques Profissionais
-
-- 🔧 **Implantação de módulos estratégicos** (vendas, orçamento, crédito e estoque), integrando com **Pipedrive** e **VTEX**, reduzindo falhas operacionais.
-- 📡 **APIs e webhooks** para monitoramento de produção em tempo real, com integrações ao **Power BI** e **Looker Studio**.
-- 🤖 API REST integrada a **assistente virtual (OpenAI)** para dashboards internos, otimizando atendimento e precisão informacional.
-- 💼 Integração com sistemas orçamentários via **REST APIs**, promovendo consistência de dados entre áreas estratégicas.
-
----
-
-## 📊 GitHub Insights
+# 📊 GitHub Stats:
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MichellHPC&theme=one-dark&custom_title=Contribuições&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-    <img 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=MichellHPC&theme=one-dark&custom_title=Contribuições&hide_border=true" 
-        alt="GitHub Stats" 
-        height="200"
-    />
-    <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichellHPC&theme=onedark&layout=compact&langs_count=9&custom_title=Linguagens" 
-        alt="Top Langs" 
-        height="200"
-    />
+  <img 
+    src="https://nirzak-streak-stats.vercel.app/?user=MichellHPC&theme=onedark&hide_border=false" 
+    height="200"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichellHPC&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&custom_title=Linguagens" 
+    width="400" height="200"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=MichellHPC&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&locale=pt-br&rank_icon=github" 
+    height="200"
+  />
+  <img 
+    src="https://github-contributor-stats.vercel.app/api?username=MichellHPC&limit=4&theme=onedark&combine_all_yearly_contributions=true" 
+    height="200"
+  />
+</p>
+
+## 🏆 GitHub Trophies
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=MichellHPC&theme=onedark&no-frame=false&no-bg=false&margin-w=5&">
 </p>
