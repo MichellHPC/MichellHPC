@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-Sou Desenvolvedor Full Stack com mais de 6 anos de experiência em aplicações web modernas. Tenho forte domínio em **PHP (Laravel)**, criação de **APIs REST/RESTful**, **bancos de dados relacionais** e uso de **Docker** em ambientes de desenvolvimento e produção.
+Sou Desenvolvedor Full Stack com mais de 8 anos de experiência em aplicações web modernas. Tenho forte domínio em **PHP (Laravel)**, criação de **APIs REST/RESTful**, **bancos de dados relacionais** e uso de **Docker** em ambientes de desenvolvimento e produção.
 
 Já participei de projetos com arquitetura **multi-inquilino** e integrações com plataformas como **VTEX**, **Pipedrive** e **OpenAI**.
 
@@ -10,9 +10,9 @@ No front-end, utilizo **jQuery** e estou expandindo conhecimentos em **Vue.js**,
 
 Sou entusiasta de **boas práticas**, **automação**, e soluções que realmente geram impacto.
 
-## 🌐 Redes Sociais
+<h2 align="center" style="margin-bottom: 40px;">🌐 Redes Sociais</h2>
 
-<p align="center">
+<p align="center" style="margin-bottom: 40px;">
   <a href="https://www.linkedin.com/in/michell-henrick-p-carvalhais-a3ba92231" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -107,8 +107,7 @@ Sou entusiasta de **boas práticas**, **automação**, e soluções que realment
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> 
 </div>
 
-
-# 📊 Estatísticas do GitHub
+<h2 align="center" style="margin-bottom: 40px;">📊 Estatísticas do GitHub</h2>
 
 <!-- Tabela com duas colunas para os demais gráficos -->
 <table align="center" width="100%">
@@ -158,8 +157,7 @@ Sou entusiasta de **boas práticas**, **automação**, e soluções que realment
 </table>
 
 
-
-## 🏆 GitHub Trophies
+<h2 align="center" style="margin-bottom: 40px;">🏆 Trofeis do GitHub</h2>
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=MichellHPC&theme=onedark&no-frame=false&no-bg=false&margin-w=5&">
