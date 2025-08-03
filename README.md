@@ -6,89 +6,161 @@ Sou Desenvolvedor Full Stack com mais de 6 anos de experiência em aplicações 
 
 Já participei de projetos com arquitetura **multi-inquilino** e integrações com plataformas como **VTEX**, **Pipedrive** e **OpenAI**.
 
-No front-end, utilizo **jQuery** e estou expandindo conhecimentos em **React.js**, **Vue.js**, **Next.js** e **Tailwind CSS**, buscando entregar experiências mais ricas e intuitivas ao usuário.
+No front-end, utilizo **jQuery** e estou expandindo conhecimentos em **Vue.js**, **inertia.js** e **Tailwind CSS**, buscando entregar experiências mais ricas e intuitivas ao usuário.
 
 Sou entusiasta de **boas práticas**, **automação**, e soluções que realmente geram impacto.
 
-
-## 🌐 Redes Sociais:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/michell-henrick-p-carvalhais-a3ba92231) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:michell.rv@gmail.com) 
-
-## 🤖 Linguagens e Tecnologias
-<p>
-    <img align="left" alt="PHP" title="PHP" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img align="left" alt="Laravel" title="Laravel" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
-    <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img align="left" alt="Redis" title="Redis" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-    <img align="left" alt="HTML5" title="HTML5" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img align="left" alt="CSS3" title="CSS3" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img align="left" alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img align="left" alt="jQuery" title="jQuery" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-    <img align="left" alt="React" title="React (aprendizado em curso)" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img align="left" alt="Vue.js" title="Vue.js (aprendizado em curso)" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-    <img align="left" alt="Next.js" title="Next.js (aprendizado em curso)" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-    <img align="left" alt="Tailwind CSS" title="Tailwind CSS (aprendizado em curso)" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
-    <img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img align="left" alt="NPM" title="NPM" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-    <img align="left" alt="Docker" title="Docker" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-    <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-    <img align="left" alt="Apache" title="Apache" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" />
-    <img align="left" alt="Firebase" title="Firebase" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-    <img align="left" alt="Figma" title="Figma" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-    <img align="left" alt="Postman" title="Postman" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
-    <img align="left" alt="Swagger" title="Swagger" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" />
-    <img align="left" alt="Power BI" title="Power BI" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
-    <img align="left" alt="PowerShell" title="PowerShell" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" />
-    <img align="left" alt="Notion" title="Notion" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" />
-    <img align="left" alt="Chart.js" title="Chart.js" width="30px" style="padding-right: 10px;" src="https://www.chartjs.org/media/logo-title.svg" />
-    <img align="left" alt="LaTeX" title="LaTeX" width="30px" style="padding-right: 10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" />
-    <img align="left" alt="Trello" title="Trello" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-</p>
-
-<br/><br/><br/>
-
----
-
-## 🚀 Principais Competências
-
-- 🧱 **Backend:** PHP (6+ anos), Laravel (3+ anos), Blade, APIs REST
-- 🗃️ **Bancos de Dados:** MySQL, Firebird, SQL Server
-- 🐳 **Ambientes:** Docker
-- 🔐 **Segurança e Permissões:** Laravel-permission
-- 🧪 **Testes Automatizados:** PHPUnit
-- 🎨 **Frontend:** HTML5, CSS3, Bootstrap, jQuery
-- 📐 **Design & UI:** Figma
-- 📁 **Versionamento:** Git / GitHub
-- 🌱 **Aprendizado Atual:** React.js, Vue.js, Next.js, Tailwind CSS, FilamentPHP
-
-# 📊 GitHub Stats:
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MichellHPC&theme=one-dark&custom_title=Contribuições&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🌐 Redes Sociais
 
 <p align="center">
-  <img 
-    src="https://nirzak-streak-stats.vercel.app/?user=MichellHPC&theme=onedark&hide_border=false" 
-    height="200"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichellHPC&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&custom_title=Linguagens" 
-    width="400" height="200"
-  />
+  <a href="https://www.linkedin.com/in/michell-henrick-p-carvalhais-a3ba92231" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:michell.rv@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=MichellHPC&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&locale=pt-br&rank_icon=github" 
-    height="200"
-  />
-  <img 
-    src="https://github-contributor-stats.vercel.app/api?username=MichellHPC&limit=4&theme=onedark&combine_all_yearly_contributions=true" 
-    height="200"
-  />
-</p>
+
+<h2 align="center" style="margin-bottom: 40px;">🧠 Tecnologias & Ferramentas</h2>
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 40px; flex-wrap: wrap; margin-bottom: 40px;">
+
+  <div style="flex: 1; min-width: 250px;">
+    <h3>⚙️ Back-end & Banco de Dados</h3> 
+    <p> 
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/Firebird-E8482F?style=for-the-badge&logo=firebird&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/> 
+    </p> 
+  </div>
+
+  <div style="flex: 1; min-width: 250px;">
+    <h3>🎨 Front-end</h3> 
+    <p> 
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
+      <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/> 
+    </p> 
+  </div>
+  
+</div>
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 40px; flex-wrap: wrap; margin-bottom: 40px;">
+
+  <div style="flex: 1; min-width: 250px;">
+    <h3>🐳 DevOps & Ambiente</h3> 
+    <p> 
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/> 
+    </p>
+  </div>
+
+  <div style="flex: 1; min-width: 250px;">
+    <h3>🔧 Ferramentas & Utilitários</h3> 
+    <p> 
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/> 
+      <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/> 
+    </p>  
+  </div>
+  
+</div>
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 40px; flex-wrap: wrap; margin-bottom: 40px;">
+
+  <div style="flex: 1; min-width: 250px;">
+    <h3>📊 Visualização & Design</h3> 
+    <p> 
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/> 
+    </p> 
+  </div>
+
+  <div style="flex: 1; min-width: 250px;">
+    <h3>📋 Organização & Gestão</h3> 
+    <p>
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+    </p>
+  </div>
+  
+</div>
+
+<h3 style="text-align: center; margin-bottom: 30px;">🚧 Frameworks & Aprendizados Atuais</h3>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: nowrap; margin-bottom: 40px;">
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Inertia.js-1E40AF?style=for-the-badge&logo=inertia.js&logoColor=white" alt="Inertia.js"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> 
+</div>
+
+
+# 📊 Estatísticas do GitHub
+
+<!-- Tabela com duas colunas para os demais gráficos -->
+<table align="center" width="100%">
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank" rel="noopener noreferrer">
+        <img
+          src="https://github-readme-activity-graph.vercel.app/graph?username=MichellHPC&theme=one-dark&custom_title=Contribuições&hide_border=false"
+          alt="Contribuições"
+          style="width: 100%; height: auto; border-radius: 10px;"
+        />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="50%">
+      <img 
+        src="https://github-contributor-stats.vercel.app/api?username=MichellHPC&limit=4&theme=onedark&combine_all_yearly_contributions=true" 
+        alt="Contributor Stats" 
+        width="100%"
+      />
+    </td>
+    <td align="right" width="50%">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichellHPC&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&custom_title=Linguagens" 
+        alt="Top Languages" 
+        width="91%"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="50%">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=MichellHPC&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&locale=pt-br&rank_icon=github" 
+        alt="GitHub Stats" 
+        width="91%"
+      />
+    </td>
+    <td align="right" width="50%">
+      <img 
+        src="https://nirzak-streak-stats.vercel.app/?user=MichellHPC&theme=onedark&hide_border=false" 
+        alt="Streak Stats" 
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
+
 
 ## 🏆 GitHub Trophies
+
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=MichellHPC&theme=onedark&no-frame=false&no-bg=false&margin-w=5&">
 </p>
