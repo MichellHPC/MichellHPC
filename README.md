@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-Sou Desenvolvedor Full Stack com mais de 8 anos de experiência em aplicações web modernas. Tenho forte domínio em **PHP (Laravel)**, criação de **APIs REST/RESTful**, **bancos de dados relacionais** e uso de **Docker** em ambientes de desenvolvimento e produção.
+Sou Desenvolvedor Full Stack com mais de 9 anos de experiência em aplicações web modernas. Tenho forte domínio em **PHP (Laravel)**, criação de **APIs REST/RESTful**, **bancos de dados relacionais** e uso de **Docker** em ambientes de desenvolvimento e produção.
 
 Já participei de projetos com arquitetura **multi-inquilino** e integrações com plataformas como **VTEX**, **Pipedrive** e **OpenAI**.
 
