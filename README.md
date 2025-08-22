@@ -1,28 +1,39 @@
-# 👨‍💻 Michell Carvalhais
+# 👨‍💻 Michell Henrick P. Carvalhais
 
-**`Desenvolvedor Full Stack`**
+**`Desenvolvedor Full Stack`**, **`Desenvolvedor Backend - PHP (Laravel)`**
 
-Sou Desenvolvedor Full Stack com mais de 9 anos de experiência em aplicações web modernas. Tenho forte domínio em **PHP (Laravel)**, criação de **APIs REST/RESTful**, **bancos de dados relacionais** e uso de **Docker** em ambientes de desenvolvimento e produção.
+Sou Desenvolvedor Full Stack com mais de 8 anos de experiência em aplicações web modernas. Tenho forte domínio em **PHP (Laravel)**, criação de **APIs REST/RESTful**, **bancos de dados relacionais** e uso de **Docker** em ambientes de desenvolvimento e produção.
 
 Já participei de projetos com arquitetura **multi-inquilino** e integrações com plataformas como **VTEX**, **Pipedrive** e **OpenAI**.
 
-No front-end, utilizo **jQuery** e estou expandindo conhecimentos em **Vue.js**, **inertia.js** e **Tailwind CSS**, buscando entregar experiências mais ricas e intuitivas ao usuário.
+No front-end, atualmente estou atuando em **projetos modernos usando Vue.js e React**, substituindo gradualmente meu conhecimento em **jQuery**, buscando entregar **interfaces mais ricas, responsivas e intuitivas** ao usuário.
 
-Sou entusiasta de **boas práticas**, **automação**, e soluções que realmente geram impacto.
+Sou entusiasta de **boas práticas**, **automação** e soluções que realmente geram impacto.
 
-<h2 align="center" style="margin-bottom: 40px;">🌐 Redes Sociais</h2>
+<h2 align="center" style="margin-bottom: 20px;">🌐 Contatos</h2>
 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="michell-carvalhais" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/michell-carvalhais?trk=profile-badge">Michell Henrick P. Carvalhais</a></div>
-              
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 40px; flex-wrap: wrap; margin-bottom: 40px;">
 
-<p align="center" style="margin-bottom: 40px;">
-  <a href="https://www.linkedin.com/in/michell-henrick-p-carvalhais-a3ba92231" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:michell.rv@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+  <div style="flex: 1; min-width: 250px;">
+    <h3>📞 Telefone/WhatsApp</h3> 
+    <p> 
+      +55 (33) 9 8762-8508
+    </p> 
+  </div>
+
+  <div style="flex: 1; min-width: 250px;">
+    <h3> Redes Sociais</h3> 
+    <p> 
+      <a href="mailto:michell.rv@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      </a>
+      <a href="https://www.linkedin.com/in/michell-henrick-p-carvalhais-a3ba92231" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+    </p> 
+  </div>
+</div>
+
 
 
 <h2 align="center" style="margin-bottom: 40px;">🧠 Tecnologias & Ferramentas</h2>
