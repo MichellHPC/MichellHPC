@@ -12,6 +12,9 @@ Sou entusiasta de **boas práticas**, **automação**, e soluções que realment
 
 <h2 align="center" style="margin-bottom: 40px;">🌐 Redes Sociais</h2>
 
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="michell-carvalhais" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/michell-carvalhais?trk=profile-badge">Michell Henrick P. Carvalhais</a></div>
+              
+
 <p align="center" style="margin-bottom: 40px;">
   <a href="https://www.linkedin.com/in/michell-henrick-p-carvalhais-a3ba92231" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
